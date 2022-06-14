@@ -15,7 +15,7 @@ You need to create an fhe end folder, put all the above items in it, and then mo
 </br>
 --Properties --c/c++ -- General
 </br>
---Properties -- linker -- attach Library Directory
+--Properties -- linker -- Attach Library Directory
 </br>
---Properties -- linker -- additional dependencies
+--Properties -- linker -- Additional dependencies
 
