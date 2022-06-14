@@ -1,5 +1,5 @@
 # TFHE-Window
-Fast Fully Homomorphic Encryption Library over the Torus on VS2013 in Window
+ Compilation and installation of Fast Fully Homomorphic Encryption Library over the Torus on VS2013 in Window
 
 ## description
 This is the compilation, installation and debugging process of tfhe on windows vs2013
